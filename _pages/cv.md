@@ -26,7 +26,7 @@ Work experience
 Awards
 ======
 * MEXT scholarship
-* BPPlN DIKTI scholarship
+* BPPLN DIKTI scholarship
 
 Professional memberships
 ======
