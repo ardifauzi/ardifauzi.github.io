@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Civil Engineering, Institut Teknologi Sepuluh Nopember (ITS)
+* M.Eng. in Water Engineering and Management, joint degree between ITK and Asian Institute o Technology (AIT) 
+* M.S. in Civil Engineering, Nagoya University
+* Ph.D in Civil Engineering, Nagoya University (on going)
 
 Work experience
 ======
