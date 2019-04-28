@@ -34,12 +34,10 @@ Professional memberships
 
 Skills
 ======
-* Programming
-  * Fortran, Matlab, Python
+* Languages
+  * Fortran, Matlab, Python, Unix, Bash, HTML
 * Deep learning framework
   * Tensorflow, Keras
-* OS
-  * Windows, Unix, Mac OS
 
 Publications
 ======

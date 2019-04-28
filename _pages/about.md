@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visiting my homepage. I am Ardiansyah Fauzi, a Ph.D. student in Civil Engineering at Nagoya University, Japan. I am currently really interested to utilizing artificial intelligence for tsunami early warning system. This includes tsunami waveform and inundation forecasting.
+Hi, thank you for visiting my homepage. I am Ardiansyah Fauzi, a Ph.D. student in Civil Engineering at Nagoya University, Japan. I am currently really interested on utilizing artificial intelligence approaches for tsunami early warning system. This includes tsunami waveform and inundation forecasting.
