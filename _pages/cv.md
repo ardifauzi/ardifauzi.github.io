@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Associate 
-* B.S. in Civil Engineering, Institut Teknologi Sepuluh Nopember (ITS)
-* M.Eng. in Water Engineering and Management, joint degree between ITK and Asian Institute of Technology (AIT) 
+* Associate in Civil Engineering, Institut Teknologi Sepuluh Nopember (ITS)
+* B.S. in Civil Engineering, ITS
+* M.Eng. in Water Engineering and Management, joint degree between ITS and Asian Institute of Technology (AIT) 
 * M.S. in Civil Engineering, Nagoya University
 * Ph.D in Civil Engineering, Nagoya University (on going)
 
@@ -34,19 +34,15 @@ Professional memberships
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Fortran, Matlab, Python
+* Deep learning framework
+  * Tensorflow, Keras
+* OS
+  * Windows, Unix, Mac OS
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Publications
+#======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
