@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
+* Associate 
 * B.S. in Civil Engineering, Institut Teknologi Sepuluh Nopember (ITS)
-* M.Eng. in Water Engineering and Management, joint degree between ITK and Asian Institute o Technology (AIT) 
+* M.Eng. in Water Engineering and Management, joint degree between ITK and Asian Institute of Technology (AIT) 
 * M.S. in Civil Engineering, Nagoya University
 * Ph.D in Civil Engineering, Nagoya University (on going)
 

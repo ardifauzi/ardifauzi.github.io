@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ardiansyah Fauzi"
   avatar           : "profile.png"
   bio              : "A curious student"
   location         : "Nagoya, Japan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.jp/citations?user=8AgqoVoAAAAJ&hl=en"
-  email            : "fauzi.ardiansyah[at]k.mbox.nagoya-u.ac.jp"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "fauzi.ardiansyah@k.mbox.nagoya-u.ac.jp"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
