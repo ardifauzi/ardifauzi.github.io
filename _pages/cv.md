@@ -23,7 +23,15 @@ Work experience
   * Port and Airport Research Institute (PARI)
   * Duties included: Tsunami simulation by using STOC
 
-  
+Awards
+======
+* MEXT scholarship
+* BPPlN DIKTI scholarship
+
+Professional memberships
+======
+* International Sciety of Offshore and Polar Engineering
+
 Skills
 ======
 * Skill 1
