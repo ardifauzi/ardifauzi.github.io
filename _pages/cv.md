@@ -54,7 +54,10 @@ Publications
   * Fauzi, A., Mizutani, N. (2018) Tsunami Inundation Forecasting System based on Database: A Case Study in Owase City, Japan. Proceedings of the 28th Conference of International Society of Offshore and Polar Engineers
   * Fauzi, A., Weesakul, S., Lasminto, U. (2015). Hydrodynamics changes at Rejoso estuary due to jetty construction. Seminar Nasional Teknik Sipil ITS.
   * Fauzi, A., Weesakul, S., Lasminto, U. (2015). Studi dampak pembangunan jetty Rejoso dengan menggunakan model numeric. Aplikasi Teknologi dan Prasarana Wilayah. (in Bahasa Indonesia)
-  
+* Oral presentations
+  * Fauzi, A. and Mizutani, N. (2017). The Application of Tsunami Inundation Forecast based on Database in Mie and Aichi Prefecture. Asia Pacific Seminar on Coastal and Ocean Engineering for Young Researchers
+  * Fauzi. A. and Mizutani, N. (2017) Tsunami Inundation Forecast and Tsunami Hazard Assessment induced by Near-field Earthquake. Study Case: Mie and Aichi Prefecture. Disaster Mitigation Research Center of Nagoya University 
+
 <!-- Publications
 ======
   <ul>{% for post in site.publications %}
