@@ -44,6 +44,8 @@ Technical skills
   * Tensorflow, Keras
 * Vizualization tools
   * GMT
+* Development tools
+  * Git/Github
 
 Publications
 ======
