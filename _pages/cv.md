@@ -19,25 +19,30 @@ Education
 
 Work experience
 ======
-* Summer 2016: Graduate Research Internship
+* Graduate Research Internship
   * Port and Airport Research Institute (PARI)
   * Duties included: Tsunami simulation by using STOC
+* Engineering Consultants
 
-Awards
+Awards and honors
 ======
 * MEXT scholarship
 * BPPLN DIKTI scholarship
+* Fresh graduate scholarship
+* PPA scholarship
 
 Professional memberships
 ======
-* International Sciety of Offshore and Polar Engineering
+* International Society of Offshore and Polar Engineers
 
 Skills
 ======
 * Languages
   * Fortran, Matlab, Python, Unix, Bash, HTML
-* Deep learning framework
+* Deep learning frameworks
   * Tensorflow, Keras
+* Vizualization tools
+  * GMT
 
 Publications
 ======
