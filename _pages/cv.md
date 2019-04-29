@@ -36,7 +36,7 @@ Professional memberships
 ======
 * International Society of Offshore and Polar Engineers
 
-Skills
+Technical skills
 ======
 * Languages
   * Fortran, Matlab, Python, Unix, Bash, HTML

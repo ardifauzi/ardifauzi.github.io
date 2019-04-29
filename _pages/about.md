@@ -14,6 +14,6 @@ Contact
 ======
 fauzi.ardiansyah[at]k.mbox.nagoya-u.ac.jp  
 Coastal and Ocean Engineering Laboratory, Nagoya University  
-Engineering building north wing No. 8  
+Engineering building north wing No. 8, Room. 410  
 Furo-cho, Chikusa-ku, Nagoya-shi  
 Aichi-ken, Japan
