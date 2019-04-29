@@ -12,6 +12,7 @@ Hi, thank you for visiting my homepage. I am Ardiansyah Fauzi, a Ph.D. student i
 
 Contact
 ======
+fauzi.ardiansyah[at]k.mbox.nagoya-u.ac.jp  
 Coastal and Ocean Engineering Laboratory, Nagoya University  
 Engineering building north wing No. 8  
 Furo-cho, Chikusa-ku, Nagoya-shi  
