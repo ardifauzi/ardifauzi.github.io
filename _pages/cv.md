@@ -19,10 +19,13 @@ Education
 
 Work experience
 ======
+* Junior Lecturer
+  * Institut Teknologi Kalimantan (ITK)
 * Graduate Research Internship
   * Port and Airport Research Institute (PARI)
   * Duties included: Tsunami simulation by using STOC
-* Various engineering consultants
+* Assistant Team Leader
+  * Various engineering consultants
   * Duties included: Designing and supervising drainage works
 
 Awards and honors
