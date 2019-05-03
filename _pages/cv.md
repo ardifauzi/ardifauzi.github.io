@@ -49,7 +49,9 @@ Technical skills
   * GMT
 * Development tools
   * Git/Github
-
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
 Publications
 ======
 * Peer-reviewed journals
