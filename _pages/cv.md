@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 <!-- * Associate in Civil Engineering, Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia
 * B.S. in Civil Engineering, ITS, Surabaya, Indonesia -->
 * M.Eng. in Water Engineering and Management, joint degree between ITS and Asian Institute of Technology (AIT), Bangkok, Thailand
 * M.S. in Civil Engineering, Nagoya University, Japan
 * Ph.D in Civil Engineering, Nagoya University, Japan (on going)
 
-Work experience
-======
+## Work experience
+
 * Junior Lecturer
   * Institut Teknologi Kalimantan (ITK)
 * Graduate Research Internship
@@ -28,19 +28,19 @@ Work experience
   * Various engineering consultants
   * Duties included: Designing and supervising drainage works
 
-Awards and honors
-======
+## Awards and honors
+
 * MEXT scholarship
 * BPPLN DIKTI scholarship
 * Fresh graduate scholarship
 * PPA scholarship
 
-Professional memberships
-======
+## Professional memberships
+
 * International Society of Offshore and Polar Engineers
 
-Technical skills
-======
+## Technical skills
+
 * Languages
   * Fortran, Matlab, Python, Unix, Bash, HTML
 * Deep learning frameworks
@@ -50,8 +50,8 @@ Technical skills
 * Development tools
   * Git/Github
 
-Publications
-======
+## Publications
+
 * Peer-reviewed journals
   * Fauzi, A., Mizutani, N. (submitted) Assessment of utilization of data-driven models with dispersive effects for real-time tsunami waveform forecasting: a case study in Nankai Trough. <i>Geophysical Journal International</i>.
   * Fauzi, A., Mizutani, N. (accepted) Tsunami Inundation Forecasting System based on Database: A Case Study in Owase City, Japan. <i>International Journal of Offshore and Polar Engineering</i>.
