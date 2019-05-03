@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Bio/CV"
+title: "Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -49,9 +49,12 @@ Technical skills
   * GMT
 * Development tools
   * Git/Github
+
+## Papers
 {% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
+
 Publications
 ======
 * Peer-reviewed journals
