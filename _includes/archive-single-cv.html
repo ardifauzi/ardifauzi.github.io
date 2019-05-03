@@ -19,7 +19,7 @@
   {% assign collection = post.collection %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item" style="margin-left: 40px;">
+<div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
     <!-- Add teaser, if we have it -->
@@ -55,7 +55,7 @@
 
     <!-- Add links to additional information -->
     {% if post.paperurl %}
-      <a href="{{ post.paperurl }}" rel="permalink"><i class="fa fa-file-pdf-o fa-2x" aria-hidden="true"></i></a>
+      <a href="{{ post.paperurl }}" rel="permalink"><i class="fa fa-file-pdf-o fa-lg" aria-hidden="true"></i></a>
     {% endif %}
     {% if post.oa_paperurl %}
       <a href="{{ post.oa_paperurl }}" rel="permalink"><i class="ai ai-open-access-square ai-2x"></i></a>
@@ -64,7 +64,7 @@
       <a href="{{ post.githuburl }}" rel="permalink"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
     {% endif %}
     {% if post.osfurl %}
-      <a href="{{ post.osfurl }}" rel="permalink"><i class="ai ai-osf ai-lg"></i></a>
+      <a href="{{ post.osfurl }}" rel="permalink"><i class="ai ai-osf ai-2x"></i></a>
     {% endif %}
     {% if post.relatedurl %}
       <a href="{{ post.relatedurl }}" rel="permalink"><b><font size="+3">∼</font></b></a>

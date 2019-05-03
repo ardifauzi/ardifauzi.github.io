@@ -62,3 +62,17 @@ Publications
 * Oral presentations
   * Fauzi, A. and Mizutani, N. (2017). The Application of Tsunami Inundation Forecast based on Database in Mie and Aichi Prefecture. Asia Pacific Seminar on Coastal and Ocean Engineering for Young Researchers
   * Fauzi. A. and Mizutani, N. (2017) Tsunami Inundation Forecast and Tsunami Hazard Assessment induced by Near-field Earthquake. Study Case: Mie and Aichi Prefecture. Disaster Mitigation Research Center of Nagoya University
+
+## Peer-Reviewed Journal Publications
+
+Mentees’ names underlined. Asterisk indicates dual first-author position.
+Open access articles or preprints (<i class="ai ai-fw ai-open-access-square"></i>)
+are linked below; all other PDFs (<i class="fa fa-file-pdf-o" aria-hidden="true">
+</i>) are provided for **personal use only.** Supplementary materials on GitHub
+(<i class="fa fa-github" aria-hidden="true"></i>) and OSF
+(<i class="ai ai-fw ai-osf"></i>) for each publication are linked below the
+citation.
+
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
