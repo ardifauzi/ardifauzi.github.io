@@ -50,11 +50,6 @@ Technical skills
 * Development tools
   * Git/Github
 
-## Papers
-{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-
 Publications
 ======
 * Peer-reviewed journals
