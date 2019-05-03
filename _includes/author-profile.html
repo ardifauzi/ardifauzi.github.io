@@ -26,7 +26,7 @@
         &#102;&#097;&#117;&#122;&#105;&#046;&#097;&#114;&#100;&#105;&#097;&#110;&#115;&#121;&#097;&#104;&#064;&#107;&#046;&#109;&#098;&#111;&#120;&#046;&#110;&#097;&#103;&#111;&#121;&#097;&#045;&#117;&#046;&#097;&#099;&#046;&#106;&#112;
         </a></li> -->
       {% if author.location %}
-        <li><i class="fas fa-map-marker fa-fw fa-lg" aria-hidden="true"></i> {{ author.location }}</li>
+        <li><i class="fas fa-map-marker fa-fw fa-2x" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
@@ -35,7 +35,7 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fa fa-envelope fa-fw fa-lg" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fa fa-envelope fa-fw fa-2x" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -68,7 +68,7 @@
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fa fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-github fa-fw fa-lg" aria-hidden="true"></i> Github</a></li>
+        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-github fa-fw fa-2x" aria-hidden="true"></i> Github</a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fa fa -fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
@@ -107,7 +107,7 @@
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fa fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class=" ai ai-google-scholar-square ai-fw ai-lg"></i> Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class=" ai ai-google-scholar-square ai-fw ai-2x"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
