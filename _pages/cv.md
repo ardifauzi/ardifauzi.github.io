@@ -38,6 +38,7 @@ redirect_from:
 ## Professional memberships
 
 * International Society of Offshore and Polar Engineers
+* Japan Society of Civil Engineers
 
 ## Technical skills
 
