@@ -54,7 +54,7 @@ redirect_from:
 ## Publications
 
 * Peer-reviewed journals
-  * Fauzi, A., Mizutani, N. (under review) Assessment of utilization of data-driven models with dispersive effects for real-time tsunami waveform forecasting: a case study in Nankai Trough. <i>Geophysical Journal International</i>.
+  * Fauzi, A., Mizutani, N. (under review) Assessment of utilization of data-driven models with dispersive effects for real-time tsunami waveform forecasting: a case study in Nankai Trough. <i>Applied Ocean Research</i>.
   * Fauzi, A., Mizutani, N. (2019) Tsunami Inundation Forecasting System based on Database: A Case Study in Owase City, Japan. <i>International Journal of Offshore and Polar Engineering</i>. in press
 * Conference proceedings
   * Fauzi, A., Mizutani, N. (2018) Tsunami Inundation Forecasting System based on Database: A Case Study in Owase City, Japan. <i>Proceedings of the 28th Conference of International Society of Offshore and Polar Engineers</i>
