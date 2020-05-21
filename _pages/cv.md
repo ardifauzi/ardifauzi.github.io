@@ -54,9 +54,10 @@ redirect_from:
 ## Publications
 
 * Peer-reviewed journals
-  * Fauzi, A., Mizutani, N. (under review) Assessment of utilization of data-driven models with dispersive effects for real-time tsunami waveform forecasting: a case study in Nankai Trough. <i>Applied Ocean Research</i>.
-  * Fauzi, A., Mizutani, N. Machine learning for real-time tsunami inundation forecasting: A case study in Nankai region. <i>Pure and Applied Geophysics</i>. in press
-  * Fauzi, A., Mizutani, N. (2019) Tsunami Inundation Forecasting System based on Database: A Case Study in Owase City, Japan. <i>International Journal of Offshore and Polar Engineering</i>. in press
+  * Fauzi, A., Mizutani, N. (under review) Potential of deep predictive coding
+    networks for spatiotemporal tsunami wavefield prediction. <i>Geoscience Letters</i>.
+  * Fauzi, A., Mizutani, N. (2020) Machine learning for real-time tsunami inundation forecasting: A case study in Nankai region. <i>Pure and Applied Geophysics</i>. https://doi.org/10.1007/s00024-019-02364-4
+  * Fauzi, A., Mizutani, N. (2019) Tsunami Inundation Forecasting System based on Database: A Case Study in Owase City, Japan. <i>International Journal of Offshore and Polar Engineering</i>. https://doi.org/10.17736/ijope.2019.jc743
 * Conference proceedings
   * Fauzi, A., Mizutani, N. (2018) Tsunami Inundation Forecasting System based on Database: A Case Study in Owase City, Japan. <i>Proceedings of the 28th Conference of International Society of Offshore and Polar Engineers</i>
   * Fauzi, A., Weesakul, S., Lasminto, U. (2015). Hydrodynamics changes at Rejoso estuary due to jetty construction. <i>Seminar Nasional Teknik Sipil ITS</i>.
