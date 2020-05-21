@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Ardiansyah Fauzi"
-  avatar           : "DSC00869.jpg"
+  avatar           : "DSC00869.png"
   bio              : "A curious Ph.D. student in Civil Engineering at Nagoya University, Japan"
   location         : "Nagoya, Japan"
   employer         :
@@ -97,7 +97,7 @@ author:
   github           : "ardifauzi"
   google_plus      :
   keybase          :
-  instagram        : "ardian.fauzi"
+  instagram        :
   impactstory      : 
   lastfm           :
   linkedin         :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "arfa_fauzi"
+  twitter          :
   vine             :
   weibo            :
   xing             :
