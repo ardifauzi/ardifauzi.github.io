@@ -21,6 +21,6 @@ and riding a bicycle.
 ## Contact
 
 <i class="fa fa-envelope fa-fw fa-lg" aria-hidden="true"></i> mailto:<ardiansyahfauzi@lecturer.itk.ac.id>  
-Department of Civil Engineering
-Institut Teknologi Kalimantan, Balikpapan
-Indonesia
+Department of Civil Engineering  
+Institut Teknologi Kalimantan, Balikpapan  
+Indonesia  
