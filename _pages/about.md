@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, thank you for visiting my homepage. I am Ardiansyah Fauzi, a Ph.D. student in Civil Engineering at Nagoya University, Japan. I am currently started studying machine learning and really interested on utilizing it for tsunami early warning systems. It is expected that this approach will be able to forecast tsunami waveform and inundation in a real-time manner.
+Hi, thank you for visiting my homepage. I am Ardiansyah Fauzi, a lecturer in
+Civil Engineering Department, Institut Teknologi Kalimantan. I received a Ph.D.
+in Civil Engineering from Nagoya University, Japan. I am currently started
+studying machine learning and really interested on utilizing
+it for tsunami early warning systems. It is expected that this approach will be
+able to forecast tsunami waveform and inundation in a real-time manner.
 
 In my free time, I enjoy culinary hunting, reading history/archaeology books,
 and riding a bicycle.
