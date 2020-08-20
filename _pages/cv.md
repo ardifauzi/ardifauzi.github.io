@@ -15,7 +15,9 @@ redirect_from:
 * B.S. in Civil Engineering, ITS, Surabaya, Indonesia -->
 * Ph.D in Civil Engineering, Nagoya University, Japan
 * M.S. in Civil Engineering, Nagoya University, Japan
-* M.Eng. in Water Engineering and Management, joint degree between ITS and Asian Institute of Technology (AIT), Bangkok, Thailand
+* M.Eng. in Water Engineering and Management, joint degree between ITS and Asian
+  Institute of Technology (AIT), Bangkok, Thailand
+* B.S. in Civil Engineering, Institut Teknologi Sepuluh Nopember
 
 ## Work experience
 
