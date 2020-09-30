@@ -25,4 +25,4 @@ Institut Teknologi Kalimantan, Balikpapan
 Indonesia  
 
 ## Schedule
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FMakassar&amp;showTitle=0&amp;src=YXJkaWFuc3lhaGZhdXppQGxlY3R1cmVyLml0ay5hYy5pZA&amp;color=%23039BE5" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FMakassar&amp;src=YXJkaWFuc3lhaGZhdXppQGxlY3R1cmVyLml0ay5hYy5pZA&amp;src=YXJmYS5mYXV6aUBnbWFpbC5jb20&amp;color=%23039BE5&amp;color=%23D81B60&amp;showTitle=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
