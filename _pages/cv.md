@@ -41,6 +41,7 @@ redirect_from:
 
 * International Society of Offshore and Polar Engineers
 * Japan Society of Civil Engineers
+* Asia Oceania Geosciences Society
 
 ## Technical skills
 
