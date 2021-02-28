@@ -18,7 +18,7 @@ In my free time, I enjoy culinary hunting, reading history/archaeology books,
 and riding a bicycle.
 
 こんにちは、アルディアンシャ　ファウジ　です。カリマンタン工業大学の教師です。名
-古屋大学から博士(工)を貰いました。ほとんど、海岸工学と水工学を勉強します。よろしくお願いします！！！
+古屋大学から博士(工)を貰いました。ほとんど、私が海岸工学と水工学を勉強します。よろしくお願いします！！！
 
 ## Contact
 
